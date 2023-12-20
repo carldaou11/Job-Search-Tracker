@@ -1,1 +1,2 @@
 # Job-Search-Tracker
+This Python script provides a simple job search tracker with a graphical user interface using Tkinter. The application allows users to input details about job applications, such as the company name, position, and application status. The data is stored in a CSV file, and the program includes functionalities to add new job applications, view existing ones, and update application status. The user-friendly GUI makes it easy to track and manage job search activities.
